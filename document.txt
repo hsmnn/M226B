@@ -1,0 +1,29 @@
+1. Expliquez ce qu’est une méthode virtuelle, une méthode virtuelle pure et une méthode non-virtuelle.
+	- méthode virtuelle : c'est une méthode définie dans une classe qui est destinée à être redéfinie dans les classes qui en héritent.
+	- méthode virtuelle pure : c'est une méthode qui est déclarée mais non définie dans une classe. Elle est définie dans une des classes dérivées de celle-ci.
+	- méthode non-virtuelle : c'est une méthode qui est déclarer et implémenter dans une classe.
+
+2. En Java, comment indique-t-on qu’une méthode est (a) virtuelle (b) virtuelle pure (c) non-virtuelle ?
+	a) public abstract
+	b) protected abstract
+	c) public
+
+3. Expliquez avec vos propres mots la manière dont on utilise le mot clé "super" dans le constructeur de la classe dérivée et la raison pour laquelle on procède ainsi.
+On l'utilise dans un constructeur d'une classe pour appeler le constructeur du parent de cette classe. Pour initialiser les variables membres du parent qu'une seule fois.
+
+4. Un constructeur peut-il être virtuel ? Justifiez votre réponse.
+Non car il ne peut pas être redéfini.
+
+5. Expliquez la raison pour laquelle il n’est pas recommandé d’utiliser le mot clé protected pour les variables membres. Quel principe cela violerait-il ?
+Ce n'est pas recommandé car les variables membres seraient modifiables depuis un sous-type.
+Cela violerait le principe Open-Closed.
+
+6. Dans notre cas, par quel truchement la classe dérivée a-t-elle accès à la variable membre persons pour y ajouter les personnes qui se trouvent dans le fichier ?
+Par le constructeur du super-type.
+
+7. Proposez une autre solution pour permettre à la classe dérivée d’ajouter des personnes dans la liste persons sans modifier sa visibilité (elle doit rester privée).
+Créer une variable membre dans la classe en question.
+
+9. Observez les classes PersonDataMapperFileBase, PersonDataMapperCsv et PersonDataMapperXml. Ces classes respectent-elles les principes SOLID ? Le cas échéant, indiquez quels principes ne sont pas respectés et justifiez votre réponse.
+Principe non respecté :
+Oui elles respectent toutes les principes SOLID.

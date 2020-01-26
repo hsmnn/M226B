@@ -1,0 +1,1100 @@
+<person-list>
+    <person>
+        <id>0</id>
+        <lastname>Francillon</lastname>
+        <firstname>Adrienne</firstname>
+        <address>chemin des Chatons 6</address>
+        <postal-code>1680</postal-code>
+        <city>Romont</city>
+        <email>francillon1408@zemail.com</email>
+    </person>
+    <person>
+        <id>1</id>
+        <lastname>Jacot-Guillarmod</lastname>
+        <firstname>Alix</firstname>
+        <address>rue de Madretsch 9</address>
+        <postal-code>1634</postal-code>
+        <city>La Roche</city>
+        <email>alix.jacot-guillarmod@blup.com</email>
+    </person>
+    <person>
+        <id>2</id>
+        <lastname>Meyer</lastname>
+        <firstname>Ambroise</firstname>
+        <address>rue Alfred- Aebi 9</address>
+        <postal-code>3185</postal-code>
+        <city>Schmitten</city>
+        <email>meyer8686@courriaile.ch</email>
+    </person>
+    <person>
+        <id>3</id>
+        <lastname>Crevoisier</lastname>
+        <firstname>Armelle</firstname>
+        <address>rue Fontenal 13</address>
+        <postal-code>3215</postal-code>
+        <city>Lurtigen</city>
+        <email>crevoisierc@zemail.com</email>
+    </person>
+    <person>
+        <id>4</id>
+        <lastname>Corbat</lastname>
+        <firstname>Arnaud</firstname>
+        <address>rue du Blé 3</address>
+        <postal-code>1714</postal-code>
+        <city>Heitenried</city>
+        <email>corbatc@courriaile.ch</email>
+    </person>
+    <person>
+        <id>5</id>
+        <lastname>Barman</lastname>
+        <firstname>Aude</firstname>
+        <address>rue du Wasen 7</address>
+        <postal-code>1533</postal-code>
+        <city>Ménières</city>
+        <email>aude.barman@privatemail.com</email>
+    </person>
+    <person>
+        <id>6</id>
+        <lastname>Cosandey</lastname>
+        <firstname>Aurélien</firstname>
+        <address>rue de Madretsch 4</address>
+        <postal-code>1483</postal-code>
+        <city>Montet</city>
+        <email>acosandey@zemail.com</email>
+    </person>
+    <person>
+        <id>7</id>
+        <lastname>Crevoisier</lastname>
+        <firstname>Aurore</firstname>
+        <address>rue du Crêt 12</address>
+        <postal-code>1630</postal-code>
+        <city>Bulle</city>
+        <email>aurore.crevoisier@privatemail.com</email>
+    </person>
+    <person>
+        <id>8</id>
+        <lastname>Vallélian</lastname>
+        <firstname>Axelle</firstname>
+        <address>rue de Zurich 1</address>
+        <postal-code>1670</postal-code>
+        <city>Bionnens</city>
+        <email>vallelianv@privatemail.com</email>
+    </person>
+    <person>
+        <id>9</id>
+        <lastname>Maire</lastname>
+        <firstname>Basile</firstname>
+        <address>rue du Marché-Neuf 8</address>
+        <postal-code>1762</postal-code>
+        <city>Givisiez</city>
+        <email>maire3088@privatemail.com</email>
+    </person>
+    <person>
+        <id>10</id>
+        <lastname>Robadey</lastname>
+        <firstname>Bernardine</firstname>
+        <address>chemin Mettlen 6</address>
+        <postal-code>1633</postal-code>
+        <city>Vuippens</city>
+        <email>robadey5939@courriaile.ch</email>
+    </person>
+    <person>
+        <id>11</id>
+        <lastname>Gilliéron</lastname>
+        <firstname>Blanche</firstname>
+        <address>allée du Champ-du-Moulin 15</address>
+        <postal-code>1716</postal-code>
+        <city>Plaffeien</city>
+        <email>gillierong@courriaile.ch</email>
+    </person>
+    <person>
+        <id>12</id>
+        <lastname>Badel</lastname>
+        <firstname>Brice</firstname>
+        <address>chemin du Clédar 11</address>
+        <postal-code>1762</postal-code>
+        <city>Givisiez</city>
+        <email>bbadel@zemail.com</email>
+    </person>
+    <person>
+        <id>13</id>
+        <lastname>Maire</lastname>
+        <firstname>Calixte</firstname>
+        <address>rue de la Gurzelen 23</address>
+        <postal-code>1663</postal-code>
+        <city>Moléson-sur-Gruyères</city>
+        <email>maire6812@zemail.com</email>
+    </person>
+    <person>
+        <id>14</id>
+        <lastname>Botteron</lastname>
+        <firstname>Capucine</firstname>
+        <address>rue des Maréchaux 7</address>
+        <postal-code>1708</postal-code>
+        <city>Fribourg</city>
+        <email>cbotteron@privatemail.com</email>
+    </person>
+    <person>
+        <id>15</id>
+        <lastname>Matile</lastname>
+        <firstname>Cateline</firstname>
+        <address>Clos-du-Lac 18</address>
+        <postal-code>1564</postal-code>
+        <city>Domdidier</city>
+        <email>cmatile@courriaile.ch</email>
+    </person>
+    <person>
+        <id>16</id>
+        <lastname>Boillat</lastname>
+        <firstname>Cateline</firstname>
+        <address>allée du Champ-du-Moulin 11</address>
+        <postal-code>3175</postal-code>
+        <city>Flamatt</city>
+        <email>cateline1457@blup.com</email>
+    </person>
+    <person>
+        <id>17</id>
+        <lastname>Rey</lastname>
+        <firstname>Célestine</firstname>
+        <address>chemin du Montoz 17</address>
+        <postal-code>1742</postal-code>
+        <city>Autigny</city>
+        <email>rey9357@blup.com</email>
+    </person>
+    <person>
+        <id>18</id>
+        <lastname>Julliard</lastname>
+        <firstname>Cerise</firstname>
+        <address>rue du Breuil 1</address>
+        <postal-code>1653</postal-code>
+        <city>Crésuz</city>
+        <email>cjulliard@blup.com</email>
+    </person>
+    <person>
+        <id>19</id>
+        <lastname>Broquet</lastname>
+        <firstname>Charlotte</firstname>
+        <address>rue de la Gare 9</address>
+        <postal-code>1681</postal-code>
+        <city>Hennens</city>
+        <email>broquet302@zemail.com</email>
+    </person>
+    <person>
+        <id>20</id>
+        <lastname>Charpié</lastname>
+        <firstname>Christine</firstname>
+        <address>ruelle des Tailleurs 11</address>
+        <postal-code>1623</postal-code>
+        <city>Semsales</city>
+        <email>christine.charpie@zemail.com</email>
+    </person>
+    <person>
+        <id>21</id>
+        <lastname>Grosjean</lastname>
+        <firstname>Clément</firstname>
+        <address>rue Jean- Sessler 2</address>
+        <postal-code>3178</postal-code>
+        <city>Bösingen</city>
+        <email>clement.grosjean@courriaile.ch</email>
+    </person>
+    <person>
+        <id>22</id>
+        <lastname>Delèze</lastname>
+        <firstname>Cyrielle</firstname>
+        <address>ch. Pierre-aux-Sarrasins 24</address>
+        <postal-code>1695</postal-code>
+        <city>Estavayer-le-Gibloux</city>
+        <email>delezed@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>23</id>
+        <lastname>Gubéran</lastname>
+        <firstname>Diane</firstname>
+        <address>ch. Johann-H.- Laubscher 25</address>
+        <postal-code>1618</postal-code>
+        <city>Châtel-St-Denis</city>
+        <email>guberan3282@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>24</id>
+        <lastname>Jacot-Descombes</lastname>
+        <firstname>Didier</firstname>
+        <address>chemin des Cordiers 23</address>
+        <postal-code>1609</postal-code>
+        <city>St-Martin</city>
+        <email>jacot-descombesj@courriaile.ch</email>
+    </person>
+    <person>
+        <id>25</id>
+        <lastname>Bovet</lastname>
+        <firstname>Didier</firstname>
+        <address>route de Soleure 1</address>
+        <postal-code>1735</postal-code>
+        <city>Giffers</city>
+        <email>didier8971@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>26</id>
+        <lastname>Chappuis</lastname>
+        <firstname>Doriane</firstname>
+        <address>rue du Bourg 22</address>
+        <postal-code>3214</postal-code>
+        <city>Ulmiz</city>
+        <email>doriane222@privatemail.com</email>
+    </person>
+    <person>
+        <id>27</id>
+        <lastname>Joly</lastname>
+        <firstname>Edwige</firstname>
+        <address>rue du Rüschli 7</address>
+        <postal-code>1677</postal-code>
+        <city>Prez-vers-Siviriez</city>
+        <email>edwige7319@zemail.com</email>
+    </person>
+    <person>
+        <id>28</id>
+        <lastname>Diesbach</lastname>
+        <firstname>Elisabeth</firstname>
+        <address>chemin des Saules 3</address>
+        <postal-code>1749</postal-code>
+        <city>Middes</city>
+        <email>elisabeth.diesbach@courriaile.ch</email>
+    </person>
+    <person>
+        <id>29</id>
+        <lastname>Müller</lastname>
+        <firstname>Elisabeth</firstname>
+        <address>ruelle de la Fonderie 6</address>
+        <postal-code>1633</postal-code>
+        <city>Marsens</city>
+        <email>müllerm@courriaile.ch</email>
+    </person>
+    <person>
+        <id>30</id>
+        <lastname>Bochud</lastname>
+        <firstname>Elise</firstname>
+        <address>rue de l&apos;Avenir 13</address>
+        <postal-code>1618</postal-code>
+        <city>Châtel-St-Denis</city>
+        <email>ebochud@zemail.com</email>
+    </person>
+    <person>
+        <id>31</id>
+        <lastname>Corpataux</lastname>
+        <firstname>Emeric</firstname>
+        <address>chemin Louis- Bréguet 5</address>
+        <postal-code>1787</postal-code>
+        <city>Môtier</city>
+        <email>corpataux5010@zemail.com</email>
+    </person>
+    <person>
+        <id>32</id>
+        <lastname>Bonvin</lastname>
+        <firstname>Emilien</firstname>
+        <address>Promenade de la Suze 7</address>
+        <postal-code>1756</postal-code>
+        <city>Onnens</city>
+        <email>ebonvin@blup.com</email>
+    </person>
+    <person>
+        <id>33</id>
+        <lastname>Candaux</lastname>
+        <firstname>Emmanuelle</firstname>
+        <address>rue de Büren 14</address>
+        <postal-code>1625</postal-code>
+        <city>Sâles</city>
+        <email>ecandaux@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>34</id>
+        <lastname>Wicht</lastname>
+        <firstname>Emmanuelle</firstname>
+        <address>rue du Marché 15</address>
+        <postal-code>1754</postal-code>
+        <city>Avry-sur-Matran</city>
+        <email>emmanuelle7919@privatemail.com</email>
+    </person>
+    <person>
+        <id>35</id>
+        <lastname>Jacot-Guillarmod</lastname>
+        <firstname>Estienne</firstname>
+        <address>rue David- Moning 21</address>
+        <postal-code>1749</postal-code>
+        <city>Middes</city>
+        <email>estienne.jacot-guillarmod@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>36</id>
+        <lastname>Berberat</lastname>
+        <firstname>Estienne</firstname>
+        <address>rue de l&apos;Equerre 22</address>
+        <postal-code>1533</postal-code>
+        <city>Ménières</city>
+        <email>berberat4975@courriaile.ch</email>
+    </person>
+    <person>
+        <id>37</id>
+        <lastname>Monnard</lastname>
+        <firstname>Euphrasie</firstname>
+        <address>rue des Armes 7</address>
+        <postal-code>1625</postal-code>
+        <city>Maules</city>
+        <email>euphrasie.monnard@zemail.com</email>
+    </person>
+    <person>
+        <id>38</id>
+        <lastname>Wicht</lastname>
+        <firstname>Fabrice</firstname>
+        <address>ruelle des Serruriers 15</address>
+        <postal-code>1713</postal-code>
+        <city>St. Antoni</city>
+        <email>fwicht@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>39</id>
+        <lastname>Brahier</lastname>
+        <firstname>Faustine</firstname>
+        <address>chemin des Bourguignons 9</address>
+        <postal-code>1694</postal-code>
+        <city>Villargiroud</city>
+        <email>faustine6537@privatemail.com</email>
+    </person>
+    <person>
+        <id>40</id>
+        <lastname>Müller</lastname>
+        <firstname>Flavie</firstname>
+        <address>chemin de la Scierie 3</address>
+        <postal-code>1782</postal-code>
+        <city>La Corbaz</city>
+        <email>flavie.müller@blup.com</email>
+    </person>
+    <person>
+        <id>41</id>
+        <lastname>Comte</lastname>
+        <firstname>Flore</firstname>
+        <address>ch. Pierre-aux-Sarrasins 13</address>
+        <postal-code>1701</postal-code>
+        <city>Fribourg</city>
+        <email>flore5125@zemail.com</email>
+    </person>
+    <person>
+        <id>42</id>
+        <lastname>Matile</lastname>
+        <firstname>France</firstname>
+        <address>chemin Louis- Bréguet 22</address>
+        <postal-code>1694</postal-code>
+        <city>Villargiroud</city>
+        <email>france.matile@zemail.com</email>
+    </person>
+    <person>
+        <id>43</id>
+        <lastname>Chapuis</lastname>
+        <firstname>Franck</firstname>
+        <address>rue de la Source 7</address>
+        <postal-code>3213</postal-code>
+        <city>Kleinbösingen</city>
+        <email>fchapuis@courriaile.ch</email>
+    </person>
+    <person>
+        <id>44</id>
+        <lastname>Broquet</lastname>
+        <firstname>Franck</firstname>
+        <address>rue des Jardins 24</address>
+        <postal-code>1782</postal-code>
+        <city>Lossy</city>
+        <email>franck.broquet@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>45</id>
+        <lastname>Droz</lastname>
+        <firstname>Frédérique</firstname>
+        <address>rue du Rüschli 11</address>
+        <postal-code>1410</postal-code>
+        <city>Prévondavaux</city>
+        <email>droz7285@courriaile.ch</email>
+    </person>
+    <person>
+        <id>46</id>
+        <lastname>Wicht</lastname>
+        <firstname>Geoffroi</firstname>
+        <address>chemin de Bärlet 12</address>
+        <postal-code>1670</postal-code>
+        <city>Esmonts</city>
+        <email>gwicht@zemail.com</email>
+    </person>
+    <person>
+        <id>47</id>
+        <lastname>Vuille</lastname>
+        <firstname>Geoffroi</firstname>
+        <address>rue du Breuil 12</address>
+        <postal-code>1565</postal-code>
+        <city>Vallon</city>
+        <email>geoffroi.vuille@blup.com</email>
+    </person>
+    <person>
+        <id>48</id>
+        <lastname>Rosselet</lastname>
+        <firstname>Ghyslain</firstname>
+        <address>ch. du Champ-du-Moulin 1</address>
+        <postal-code>3186</postal-code>
+        <city>Düdingen</city>
+        <email>ghyslain.rosselet@privatemail.com</email>
+    </person>
+    <person>
+        <id>49</id>
+        <lastname>Monnard</lastname>
+        <firstname>Ghyslaine</firstname>
+        <address>chemin du Lézard 17</address>
+        <postal-code>1695</postal-code>
+        <city>Villarsel-le-Gibloux</city>
+        <email>ghyslaine.monnard@courriaile.ch</email>
+    </person>
+    <person>
+        <id>50</id>
+        <lastname>Paccot</lastname>
+        <firstname>Guenièvre</firstname>
+        <address>rue du Collège 25</address>
+        <postal-code>1723</postal-code>
+        <city>Marly</city>
+        <email>guenievre.paccot@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>51</id>
+        <lastname>Botteron</lastname>
+        <firstname>Gustave</firstname>
+        <address>chemin des Charmes 13</address>
+        <postal-code>1695</postal-code>
+        <city>Estavayer-le-Gibloux</city>
+        <email>botteronb@privatemail.com</email>
+    </person>
+    <person>
+        <id>52</id>
+        <lastname>Corboz</lastname>
+        <firstname>Hilaire</firstname>
+        <address>chemin de la Tuilerie 3</address>
+        <postal-code>3185</postal-code>
+        <city>Schmitten</city>
+        <email>hilaire7983@courriaile.ch</email>
+    </person>
+    <person>
+        <id>53</id>
+        <lastname>Boichat</lastname>
+        <firstname>Honoré</firstname>
+        <address>rue du Weissenstein 18</address>
+        <postal-code>1674</postal-code>
+        <city>Vuarmarens</city>
+        <email>honore3507@privatemail.com</email>
+    </person>
+    <person>
+        <id>54</id>
+        <lastname>Bonvin</lastname>
+        <firstname>Huguette</firstname>
+        <address>chemin des Mésanges 10</address>
+        <postal-code>3210</postal-code>
+        <city>Kerzers</city>
+        <email>bonvin6506@zemail.com</email>
+    </person>
+    <person>
+        <id>55</id>
+        <lastname>Muriset</lastname>
+        <firstname>Isabelle</firstname>
+        <address>rue du Chantier 17</address>
+        <postal-code>1567</postal-code>
+        <city>Delley</city>
+        <email>isabelle.muriset@blup.com</email>
+    </person>
+    <person>
+        <id>56</id>
+        <lastname>Corbat</lastname>
+        <firstname>Jean-Marie</firstname>
+        <address>rue de l&apos;Octroi 23</address>
+        <postal-code>1789</postal-code>
+        <city>Lugnorre</city>
+        <email>jean-marie.corbat@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>57</id>
+        <lastname>Crivelli</lastname>
+        <firstname>Jean-Marie</firstname>
+        <address>rue de Boujean 14</address>
+        <postal-code>1707</postal-code>
+        <city>Fribourg</city>
+        <email>jean-marie3695@zemail.com</email>
+    </person>
+    <person>
+        <id>58</id>
+        <lastname>Barillon</lastname>
+        <firstname>Jeannine</firstname>
+        <address>rue Adam-Friedrich- Molz 6</address>
+        <postal-code>1785</postal-code>
+        <city>Cressier</city>
+        <email>jeannine7938@blup.com</email>
+    </person>
+    <person>
+        <id>59</id>
+        <lastname>Godet</lastname>
+        <firstname>Joëlle</firstname>
+        <address>rue de Flore 10</address>
+        <postal-code>1475</postal-code>
+        <city>Forel</city>
+        <email>godet1807@courriaile.ch</email>
+    </person>
+    <person>
+        <id>60</id>
+        <lastname>Mottet</lastname>
+        <firstname>Joséphine</firstname>
+        <address>chemin des Martinets 2</address>
+        <postal-code>3214</postal-code>
+        <city>Ulmiz</city>
+        <email>mottet9435@privatemail.com</email>
+    </person>
+    <person>
+        <id>61</id>
+        <lastname>Maire</lastname>
+        <firstname>Julien</firstname>
+        <address>Pré-Künzi 2</address>
+        <postal-code>1541</postal-code>
+        <city>Sévaz</city>
+        <email>julien8628@blup.com</email>
+    </person>
+    <person>
+        <id>62</id>
+        <lastname>Georges</lastname>
+        <firstname>Julien</firstname>
+        <address>rue de l&apos;Avenir 4</address>
+        <postal-code>1685</postal-code>
+        <city>Villariaz</city>
+        <email>georgesg@courriaile.ch</email>
+    </person>
+    <person>
+        <id>63</id>
+        <lastname>Joye</lastname>
+        <firstname>Justine</firstname>
+        <address>rue Hans- Hugi 13</address>
+        <postal-code>1642</postal-code>
+        <city>Sorens</city>
+        <email>joye1979@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>64</id>
+        <lastname>Dubey</lastname>
+        <firstname>Laurentin</firstname>
+        <address>rue Georg-Fr.- Heilmann 24</address>
+        <postal-code>1696</postal-code>
+        <city>Vuisternens-en-Ogoz</city>
+        <email>ldubey@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>65</id>
+        <lastname>Muriset</lastname>
+        <firstname>Laurentin</firstname>
+        <address>Champs-du-Soleil 8</address>
+        <postal-code>1484</postal-code>
+        <city>Granges-de-Vesin</city>
+        <email>laurentin3286@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>66</id>
+        <lastname>Francillon</lastname>
+        <firstname>Léandre</firstname>
+        <address>ch. Pierre-aux-Sarrasins 2</address>
+        <postal-code>1740</postal-code>
+        <city>Neyruz</city>
+        <email>leandre1621@privatemail.com</email>
+    </person>
+    <person>
+        <id>67</id>
+        <lastname>Delèze</lastname>
+        <firstname>Léonce</firstname>
+        <address>rue de la Poste 16</address>
+        <postal-code>1716</postal-code>
+        <city>Schwarzsee</city>
+        <email>ldeleze@courriaile.ch</email>
+    </person>
+    <person>
+        <id>68</id>
+        <lastname>Bouvier</lastname>
+        <firstname>Louise</firstname>
+        <address>route du Büttenberg 8</address>
+        <postal-code>1681</postal-code>
+        <city>Billens</city>
+        <email>louise.bouvier@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>69</id>
+        <lastname>Pasquier</lastname>
+        <firstname>Lucie</firstname>
+        <address>rue des Hirondelles 13</address>
+        <postal-code>3186</postal-code>
+        <city>Düdingen</city>
+        <email>lucie.pasquier@blup.com</email>
+    </person>
+    <person>
+        <id>70</id>
+        <lastname>Comman</lastname>
+        <firstname>Lucien</firstname>
+        <address>rue Georg-Fr.- Heilmann 24</address>
+        <postal-code>1773</postal-code>
+        <city>Russy</city>
+        <email>lucien7306@privatemail.com</email>
+    </person>
+    <person>
+        <id>71</id>
+        <lastname>Uldry</lastname>
+        <firstname>Lucien</firstname>
+        <address>rue des Jardins 7</address>
+        <postal-code>1796</postal-code>
+        <city>Courgevaux</city>
+        <email>uldry1107@zemail.com</email>
+    </person>
+    <person>
+        <id>72</id>
+        <lastname>Menthonnex</lastname>
+        <firstname>Lucile</firstname>
+        <address>chemin des Palmiers 6</address>
+        <postal-code>1673</postal-code>
+        <city>Gillarens</city>
+        <email>menthonnex1501@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>73</id>
+        <lastname>Bochud</lastname>
+        <firstname>Ludivine</firstname>
+        <address>chemin Karl- Mathy 23</address>
+        <postal-code>1721</postal-code>
+        <city>Misery-Courtion</city>
+        <email>bochudb@zemail.com</email>
+    </person>
+    <person>
+        <id>74</id>
+        <lastname>Brahier</lastname>
+        <firstname>Marc</firstname>
+        <address>rue de l&apos;Elfenau 12</address>
+        <postal-code>1735</postal-code>
+        <city>Giffers</city>
+        <email>marc.brahier@blup.com</email>
+    </person>
+    <person>
+        <id>75</id>
+        <lastname>Carraud</lastname>
+        <firstname>Mariette</firstname>
+        <address>chemin de Scheuren 2</address>
+        <postal-code>1553</postal-code>
+        <city>Châtonnaye</city>
+        <email>carraud2909@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>76</id>
+        <lastname>Bonvin</lastname>
+        <firstname>Mariette</firstname>
+        <address>rue du Wasen 6</address>
+        <postal-code>1721</postal-code>
+        <city>Cournillens</city>
+        <email>bonvin4529@privatemail.com</email>
+    </person>
+    <person>
+        <id>77</id>
+        <lastname>Thorens</lastname>
+        <firstname>Marin</firstname>
+        <address>Crêt-du-Sable 21</address>
+        <postal-code>1675</postal-code>
+        <city>Vauderens</city>
+        <email>thorens5605@blup.com</email>
+    </person>
+    <person>
+        <id>78</id>
+        <lastname>Chaudet</lastname>
+        <firstname>Marine</firstname>
+        <address>chemin Radius 11</address>
+        <postal-code>1676</postal-code>
+        <city>Chavannes-les-Forts</city>
+        <email>marine6100@privatemail.com</email>
+    </person>
+    <person>
+        <id>79</id>
+        <lastname>Jomini</lastname>
+        <firstname>Marjolaine</firstname>
+        <address>rue des Cygnes 22</address>
+        <postal-code>1773</postal-code>
+        <city>Russy</city>
+        <email>marjolaine7209@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>80</id>
+        <lastname>Meyer</lastname>
+        <firstname>Marjolaine</firstname>
+        <address>rue Neuve 23</address>
+        <postal-code>1753</postal-code>
+        <city>Matran</city>
+        <email>meyer5417@privatemail.com</email>
+    </person>
+    <person>
+        <id>81</id>
+        <lastname>Vonlanthen</lastname>
+        <firstname>Martine</firstname>
+        <address>chemin des Landes 9</address>
+        <postal-code>1699</postal-code>
+        <city>Bouloz</city>
+        <email>martine6562@blup.com</email>
+    </person>
+    <person>
+        <id>82</id>
+        <lastname>Vermeil</lastname>
+        <firstname>Mathias</firstname>
+        <address>chemin Isabelle 14</address>
+        <postal-code>1483</postal-code>
+        <city>Frasses</city>
+        <email>vermeil3253@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>83</id>
+        <lastname>Chevrolet</lastname>
+        <firstname>Matthieu</firstname>
+        <address>rue de l&apos;Hôpital 18</address>
+        <postal-code>1628</postal-code>
+        <city>Vuadens</city>
+        <email>chevroletc@blup.com</email>
+    </person>
+    <person>
+        <id>84</id>
+        <lastname>Bahon</lastname>
+        <firstname>Maxence</firstname>
+        <address>Promenade de la Suze 8</address>
+        <postal-code>1626</postal-code>
+        <city>Rueyres-Treyfayes</city>
+        <email>bahonb@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>85</id>
+        <lastname>Beguin</lastname>
+        <firstname>Méline</firstname>
+        <address>rue de Boujean 5</address>
+        <postal-code>1680</postal-code>
+        <city>Romont</city>
+        <email>meline.beguin@privatemail.com</email>
+    </person>
+    <person>
+        <id>86</id>
+        <lastname>Bourquard</lastname>
+        <firstname>Mélisande</firstname>
+        <address>ruelle de la Fabrique 1</address>
+        <postal-code>1691</postal-code>
+        <city>Villarimboud</city>
+        <email>bourquard7331@courriaile.ch</email>
+    </person>
+    <person>
+        <id>87</id>
+        <lastname>Cornuz</lastname>
+        <firstname>Melisende</firstname>
+        <address>rue du Lindenhof 19</address>
+        <postal-code>1741</postal-code>
+        <city>Cottens</city>
+        <email>melisende.cornuz@courriaile.ch</email>
+    </person>
+    <person>
+        <id>88</id>
+        <lastname>Marti</lastname>
+        <firstname>Mirabelle</firstname>
+        <address>chemin Mon-Désir 8</address>
+        <postal-code>1553</postal-code>
+        <city>Châtonnaye</city>
+        <email>mirabelle.marti@courriaile.ch</email>
+    </person>
+    <person>
+        <id>89</id>
+        <lastname>Boichat</lastname>
+        <firstname>Mireille</firstname>
+        <address>rue des Diamants 19</address>
+        <postal-code>1634</postal-code>
+        <city>La Roche</city>
+        <email>mboichat@blup.com</email>
+    </person>
+    <person>
+        <id>90</id>
+        <lastname>Fonjallaz</lastname>
+        <firstname>Nadine</firstname>
+        <address>Crêt-du-Haut 13</address>
+        <postal-code>1470</postal-code>
+        <city>Estavayer-le-Lac</city>
+        <email>fonjallaz9110@blup.com</email>
+    </person>
+    <person>
+        <id>91</id>
+        <lastname>Vallélian</lastname>
+        <firstname>Nicolette</firstname>
+        <address>rue Fritz- Oppliger 11</address>
+        <postal-code>1793</postal-code>
+        <city>Jeuss</city>
+        <email>nvallelian@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>92</id>
+        <lastname>Matile</lastname>
+        <firstname>Noèle</firstname>
+        <address>Pont-du- Moulin 22</address>
+        <postal-code>1744</postal-code>
+        <city>Chénens</city>
+        <email>nmatile@blup.com</email>
+    </person>
+    <person>
+        <id>93</id>
+        <lastname>Beuchat</lastname>
+        <firstname>Noémie</firstname>
+        <address>rue Johann- Renfer 6</address>
+        <postal-code>3280</postal-code>
+        <city>Meyriez</city>
+        <email>noemie.beuchat@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>94</id>
+        <lastname>Niquille</lastname>
+        <firstname>Noémie</firstname>
+        <address>rue des Diamants 19</address>
+        <postal-code>1475</postal-code>
+        <city>Autavaux</city>
+        <email>niquillen@courriaile.ch</email>
+    </person>
+    <person>
+        <id>95</id>
+        <lastname>Nüsslin</lastname>
+        <firstname>Odette</firstname>
+        <address>chemin des Barques 11</address>
+        <postal-code>1653</postal-code>
+        <city>Crésuz</city>
+        <email>nüsslinn@blup.com</email>
+    </person>
+    <person>
+        <id>96</id>
+        <lastname>Polla</lastname>
+        <firstname>Odilon</firstname>
+        <address>rue Franche 17</address>
+        <postal-code>3184</postal-code>
+        <city>Wünnewil</city>
+        <email>odilon3881@blup.com</email>
+    </person>
+    <person>
+        <id>97</id>
+        <lastname>Deladoëy</lastname>
+        <firstname>Olivier</firstname>
+        <address>chemin des Oeuches 22</address>
+        <postal-code>1674</postal-code>
+        <city>Vuarmarens</city>
+        <email>deladoëy6427@privatemail.com</email>
+    </person>
+    <person>
+        <id>98</id>
+        <lastname>Peitrequin</lastname>
+        <firstname>Olivier</firstname>
+        <address>rue Arrière 4</address>
+        <postal-code>1544</postal-code>
+        <city>Gletterens</city>
+        <email>peitrequinp@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>99</id>
+        <lastname>Barman</lastname>
+        <firstname>Ophélie</firstname>
+        <address>rue de la Leugene 19</address>
+        <postal-code>1541</postal-code>
+        <city>Sévaz</city>
+        <email>obarman@privatemail.com</email>
+    </person>
+    <person>
+        <id>100</id>
+        <lastname>Crivelli</lastname>
+        <firstname>Paschal</firstname>
+        <address>chemin du Long-Champ 8</address>
+        <postal-code>1678</postal-code>
+        <city>Siviriez</city>
+        <email>crivelli2928@blup.com</email>
+    </person>
+    <person>
+        <id>101</id>
+        <lastname>Blanc</lastname>
+        <firstname>Paule</firstname>
+        <address>rue des Prés 25</address>
+        <postal-code>1624</postal-code>
+        <city>Progens</city>
+        <email>paule4436@privatemail.com</email>
+    </person>
+    <person>
+        <id>102</id>
+        <lastname>Bouvier</lastname>
+        <firstname>Quentin</firstname>
+        <address>ruelle de la Fabrique 11</address>
+        <postal-code>1685</postal-code>
+        <city>Villariaz</city>
+        <email>quentin.bouvier@blup.com</email>
+    </person>
+    <person>
+        <id>103</id>
+        <lastname>Pasquier</lastname>
+        <firstname>Rémy</firstname>
+        <address>rue du Viaduc 24</address>
+        <postal-code>1694</postal-code>
+        <city>Chavannes-sous-Orsonnens</city>
+        <email>rpasquier@blup.com</email>
+    </person>
+    <person>
+        <id>104</id>
+        <lastname>Peitrequin</lastname>
+        <firstname>Reynaud</firstname>
+        <address>rue des Prés 12</address>
+        <postal-code>1685</postal-code>
+        <city>Villariaz</city>
+        <email>reynaud.peitrequin@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>105</id>
+        <lastname>Gubéran</lastname>
+        <firstname>Roch</firstname>
+        <address>rue du Wasen 1</address>
+        <postal-code>1542</postal-code>
+        <city>Rueyres-les-Prés</city>
+        <email>roch.guberan@privatemail.com</email>
+    </person>
+    <person>
+        <id>106</id>
+        <lastname>Quartier</lastname>
+        <firstname>Romain</firstname>
+        <address>chemin Geyisried 18</address>
+        <postal-code>1616</postal-code>
+        <city>Attalens</city>
+        <email>romain2816@privatemail.com</email>
+    </person>
+    <person>
+        <id>107</id>
+        <lastname>Jomini</lastname>
+        <firstname>Romain</firstname>
+        <address>Faubourg du Jura 18</address>
+        <postal-code>1782</postal-code>
+        <city>La Corbaz</city>
+        <email>romain4836@courriaile.ch</email>
+    </person>
+    <person>
+        <id>108</id>
+        <lastname>Evéquoz</lastname>
+        <firstname>Roul</firstname>
+        <address>rue Jean- Sessler 8</address>
+        <postal-code>1713</postal-code>
+        <city>St. Antoni</city>
+        <email>evequoze@troptopmail.ch</email>
+    </person>
+    <person>
+        <id>109</id>
+        <lastname>Comman</lastname>
+        <firstname>Sophie</firstname>
+        <address>chemin de Beaulieu 10</address>
+        <postal-code>1756</postal-code>
+        <city>Onnens</city>
+        <email>comman2716@courriaile.ch</email>
+    </person>
+    <person>
+        <id>110</id>
+        <lastname>Menthonnex</lastname>
+        <firstname>Suzanne</firstname>
+        <address>chemin des Bluets 24</address>
+        <postal-code>1623</postal-code>
+        <city>Semsales</city>
+        <email>smenthonnex@privatemail.com</email>
+    </person>
+    <person>
+        <id>111</id>
+        <lastname>Monnard</lastname>
+        <firstname>Sylvianne</firstname>
+        <address>chemin Johann- Lisser 10</address>
+        <postal-code>3185</postal-code>
+        <city>Schmitten</city>
+        <email>monnard7773@blup.com</email>
+    </person>
+    <person>
+        <id>112</id>
+        <lastname>Rey</lastname>
+        <firstname>Sylvianne</firstname>
+        <address>chemin Saint-Paul 9</address>
+        <postal-code>1679</postal-code>
+        <city>Villaraboud</city>
+        <email>sylvianne4746@blup.com</email>
+    </person>
+    <person>
+        <id>113</id>
+        <lastname>Bernasconi</lastname>
+        <firstname>Théo</firstname>
+        <address>Champs-du-Soleil 17</address>
+        <postal-code>1723</postal-code>
+        <city>Pierrafortscha</city>
+        <email>theo6732@privatemail.com</email>
+    </person>
+    <person>
+        <id>114</id>
+        <lastname>Uldry</lastname>
+        <firstname>Théo</firstname>
+        <address>route de Reuchenette 19</address>
+        <postal-code>1688</postal-code>
+        <city>Lieffrens</city>
+        <email>uldry4908@courriaile.ch</email>
+    </person>
+    <person>
+        <id>115</id>
+        <lastname>Chatriand</lastname>
+        <firstname>Thérèse</firstname>
+        <address>rue du Milieu 8</address>
+        <postal-code>1788</postal-code>
+        <city>Praz</city>
+        <email>therese.chatriand@privatemail.com</email>
+    </person>
+    <person>
+        <id>116</id>
+        <lastname>Mottiez</lastname>
+        <firstname>Thibault</firstname>
+        <address>Crêt-du-Sable 12</address>
+        <postal-code>1609</postal-code>
+        <city>Fiaugères</city>
+        <email>tmottiez@courriaile.ch</email>
+    </person>
+    <person>
+        <id>117</id>
+        <lastname>Privet</lastname>
+        <firstname>Victoire</firstname>
+        <address>rue de Mâche 6</address>
+        <postal-code>1724</postal-code>
+        <city>Senèdes</city>
+        <email>victoire.privet@zemail.com</email>
+    </person>
+    <person>
+        <id>118</id>
+        <lastname>Robadey</lastname>
+        <firstname>Virginie</firstname>
+        <address>rue des Alpes 16</address>
+        <postal-code>1532</postal-code>
+        <city>Fötigny</city>
+        <email>virginie8324@privatemail.com</email>
+    </person>
+    <person>
+        <id>119</id>
+        <lastname>Charpié</lastname>
+        <firstname>Vivienne</firstname>
+        <address>rue de la Gare 19</address>
+        <postal-code>1609</postal-code>
+        <city>Fiaugères</city>
+        <email>vcharpie@courriaile.ch</email>
+    </person>
+    <person>
+        <id>120</id>
+        <lastname>Beuret</lastname>
+        <firstname>Zénaïde</firstname>
+        <address>chemin des Dahlias 22</address>
+        <postal-code>3186</postal-code>
+        <city>Düdingen</city>
+        <email>beuretb@privatemail.com</email>
+    </person>
+    <person>
+        <id>121</id>
+        <lastname>Isella</lastname>
+        <firstname>Zénaïde</firstname>
+        <address>Longue-Rue 5</address>
+        <postal-code>1663</postal-code>
+        <city>Pringy</city>
+        <email>zenaide.isella@blup.com</email>
+    </person>
+</person-list>

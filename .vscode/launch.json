@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ch.epai.ict.m226.contact_manager.App",
+            "args": "",
+            "projectName": "contact-manager"
+        }
+    ]
+}
